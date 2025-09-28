@@ -16,18 +16,17 @@ I'm a Senior Software/Machine Learning expert with 4+ years of experience at **A
 
 <!-- START:now -->
 - 🤖 Building AI Copilots and intelligent assistants at Adobe
-- 📚 Exploring advanced Neural Topic Modeling techniques
+- 🌐 Built the personalization engine for Adobe Journey Optimizer, CRM product.
 - 🔧 Developing Domain-Specific Languages for better developer experience
-- 🌐 Working on scalable distributed systems
 - 📝 Maintaining [awesome-template-engine](https://github.com/sshailabh/awesome-template-engine) - A curated list of template engines
 <!-- END:now -->
 
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
@@ -56,6 +55,13 @@ I'm a Senior Software/Machine Learning expert with 4+ years of experience at **A
 
 *Authors: Madhur Panwar, **Shashank Shailabh**, Milan Aggarwal, Balaji Krishnamurthy*
 
+### Building Knowledge Graph for NLP Research
+**SemEval 2021** | [Paper](https://aclanthology.org/2021.semeval-1.57/)
+
+> Developed a system for automatically creating knowledge graphs from NLP research papers, extracting contribution sentences and forming semantic triplets using SciBERT and BiLSTM-CRF models.
+
+*Authors: **Shashank Shailabh**, Sajal Chaurasia, Ashutosh Modi*
+
 ## 🌟 Featured Projects
 
 <!-- START:projects -->
@@ -80,7 +86,7 @@ Implementation for SemEval 2021 Task 11 - NLP contribution to computational ling
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-shailabh/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sshailabh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashank.shailabh@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shailabhshashank@gmail.com)
 
 </div>
 
