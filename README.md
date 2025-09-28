@@ -24,23 +24,12 @@ I'm a Senior Software/Machine Learning expert with 4+ years of experience at **A
 
 ## 🛠️ Tech Stack
 
-### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### ML/AI Frameworks
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📊 GitHub Stats
 
@@ -53,13 +42,10 @@ I'm a Senior Software/Machine Learning expert with 4+ years of experience at **A
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sshailabh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-## 🏆 Achievements & Certifications
+## ✍️ Latest Blog Post
 
-- 🏅 **Special Contribution Award** - Adobe
-- 🌟 **Spot Award** - Adobe  
-- 📜 **Deep Learning Specialization** - Coursera (2020)
-- 🤖 **DeepLearning.AI TensorFlow Developer** - Coursera (2020)
-- 🎮 **Reinforcement Learning Specialization** - Coursera (2020)
+### [The Power of Template Engines: From Web Development to AI Prompting](https://substack.com/home/post/p-164289869)
+> Exploring how template engines have evolved beyond web development to become essential tools in AI systems, enabling dynamic prompt construction and sophisticated content generation.
 
 ## 📚 Featured Publications
 
