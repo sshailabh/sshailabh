@@ -14,7 +14,7 @@ import yaml
 
 class GitHubProfileUpdater:
     def __init__(self):
-        self.github_token = os.environ.get('GITHUB_TOKEN', os.environ.get('GH_TOKEN'))
+        self.github_token = os.environ.get('GH_TOKEN', "")
         self.headers = {
             'Authorization': f'Bearer {self.github_token}',
             'Accept': 'application/vnd.github.v3+json'
