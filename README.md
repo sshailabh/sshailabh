@@ -16,8 +16,9 @@ I'm a Senior Software/Machine Learning expert with 4+ years of experience at **A
 
 <!-- START:now -->
 - 🤖 Building AI Copilots and intelligent assistants at Adobe
-- 🌐 Built the personalization engine for Adobe Journey Optimizer, CRM product.
+- 📚 Exploring advanced Neural Topic Modeling techniques
 - 🔧 Developing Domain-Specific Languages for better developer experience
+- 🌐 Working on scalable distributed systems
 - 📝 Maintaining [awesome-template-engine](https://github.com/sshailabh/awesome-template-engine) - A curated list of template engines
 <!-- END:now -->
 
@@ -66,18 +67,22 @@ I'm a Senior Software/Machine Learning expert with 4+ years of experience at **A
 
 <!-- START:projects -->
 ### [awesome-template-engine](https://github.com/sshailabh/awesome-template-engine)
-A curated list of template engines across all programming languages with repository activity stats. Features automatic updates, benchmarks, and comprehensive categorization.
+A curated list of references for template engines
+
+**Language**: Python | **Stars**: 47 | **Forks**: 2
 
 ### [SemEval-2021-Task-11](https://github.com/sshailabh/SemEval-2021-Task-11)
-Implementation for SemEval 2021 Task 11 - NLP contribution to computational linguistics research.
+This repo has system code for SemEval 2021 Task 11.
+
+**Language**: Jupyter Notebook | **Stars**: 4 | **Forks**: 1
 <!-- END:projects -->
 
 ## 📈 Template Engine Insights
 
 <!-- START:template-stats -->
-**Total Template Engines Tracked**: 117  
-**Languages Covered**: 17  
-**Last Updated**: 2025-09-28
+**Total Template Engines Tracked**: 150+  
+**Languages Covered**: 20+  
+**Last Updated**: 2025-09-15
 <!-- END:template-stats -->
 
 ## 🤝 Connect With Me
@@ -103,7 +108,10 @@ Implementation for SemEval 2021 Task 11 - NLP contribution to computational ling
 ## 🎯 Recent Activity
 
 <!-- START:activity -->
-*No recent public activity*
+- 🔨 Pushed 19 commit(s) to [sshailabh/handlebars.java](https://github.com/sshailabh/handlebars.java) - 2025-09-30
+- 🔨 Pushed 1 commit(s) to [sshailabh/sshailabh](https://github.com/sshailabh/sshailabh) - 2025-09-28
+- 🔨 Pushed 2 commit(s) to [sshailabh/sshailabh](https://github.com/sshailabh/sshailabh) - 2025-09-28
+- 📦 Created new repository [sshailabh/sshailabh](https://github.com/sshailabh/sshailabh) - 2025-09-28
 <!-- END:activity -->
 
 ---
