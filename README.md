@@ -82,7 +82,7 @@ This repo has system code for SemEval 2021 Task 11.
 <!-- START:template-stats -->
 **Total Template Engines Tracked**: 150+  
 **Languages Covered**: 20+  
-**Last Updated**: 2025-09-15
+**Last Updated**: 2025-10-02
 <!-- END:template-stats -->
 
 ## 🤝 Connect With Me
@@ -108,10 +108,11 @@ This repo has system code for SemEval 2021 Task 11.
 ## 🎯 Recent Activity
 
 <!-- START:activity -->
-- 🔨 Pushed 19 commit(s) to [sshailabh/handlebars.java](https://github.com/sshailabh/handlebars.java) - 2025-09-30
-- 🔨 Pushed 1 commit(s) to [sshailabh/sshailabh](https://github.com/sshailabh/sshailabh) - 2025-09-28
-- 🔨 Pushed 2 commit(s) to [sshailabh/sshailabh](https://github.com/sshailabh/sshailabh) - 2025-09-28
-- 📦 Created new repository [sshailabh/sshailabh](https://github.com/sshailabh/sshailabh) - 2025-09-28
+- 🔨 Pushed 2 commit(s) to [sshailabh/awesome-template-engine](https://github.com/sshailabh/awesome-template-engine) - 2025-10-02
+- 🔄 Opened PR [#25](https://github.com/sshailabh/awesome-template-engine/pull/25) in sshailabh/awesome-template-engine - 2025-10-02
+- 🔨 Pushed 3 commit(s) to [sshailabh/awesome-template-engine](https://github.com/sshailabh/awesome-template-engine) - 2025-10-02
+- 🔄 Opened PR [#24](https://github.com/sshailabh/awesome-template-engine/pull/24) in sshailabh/awesome-template-engine - 2025-10-02
+- 🔄 Opened PR [#23](https://github.com/sshailabh/awesome-template-engine/pull/23) in sshailabh/awesome-template-engine - 2025-10-02
 <!-- END:activity -->
 
 ---
