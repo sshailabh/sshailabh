@@ -108,11 +108,11 @@ This repo has system code for SemEval 2021 Task 11.
 ## 🎯 Recent Activity
 
 <!-- START:activity -->
-- 🔨 Pushed 1 commit(s) to [sshailabh/sshailabh](https://github.com/sshailabh/sshailabh) - 2025-10-03
-- 🔨 Pushed 2 commit(s) to [sshailabh/awesome-template-engine](https://github.com/sshailabh/awesome-template-engine) - 2025-10-02
-- 🔄 Opened PR [#25](https://github.com/sshailabh/awesome-template-engine/pull/25) in sshailabh/awesome-template-engine - 2025-10-02
-- 🔨 Pushed 3 commit(s) to [sshailabh/awesome-template-engine](https://github.com/sshailabh/awesome-template-engine) - 2025-10-02
-- 🔄 Opened PR [#24](https://github.com/sshailabh/awesome-template-engine/pull/24) in sshailabh/awesome-template-engine - 2025-10-02
+- 🔄 Opened PR [#1169](https://github.com/jknack/handlebars.java/pull/1169) in jknack/handlebars.java - 2025-10-04
+- 🔨 Pushed 1 commit(s) to [sshailabh/handlebars.java](https://github.com/sshailabh/handlebars.java) - 2025-10-04
+- 🔨 Pushed 1 commit(s) to [sshailabh/antlr4-mcp-server](https://github.com/sshailabh/antlr4-mcp-server) - 2025-10-04
+- 🔨 Pushed 1 commit(s) to [sshailabh/antlr4-mcp-server](https://github.com/sshailabh/antlr4-mcp-server) - 2025-10-04
+- 🔨 Pushed 1 commit(s) to [sshailabh/antlr4-mcp-server](https://github.com/sshailabh/antlr4-mcp-server) - 2025-10-04
 <!-- END:activity -->
 
 ---
