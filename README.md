@@ -112,7 +112,7 @@ This repo has system code for SemEval 2021 Task 11.
 - 🔨 Pushed 1 commit(s) to [sshailabh/sshailabh](https://github.com/sshailabh/sshailabh) - 2025-10-06
 - 🔨 Pushed 1 commit(s) to [sshailabh/sshailabh](https://github.com/sshailabh/sshailabh) - 2025-10-06
 - 🔨 Pushed 1 commit(s) to [sshailabh/sshailabh](https://github.com/sshailabh/sshailabh) - 2025-10-06
-- 🔨 Pushed 2 commit(s) to [sshailabh/awesome-template-engine](https://github.com/sshailabh/awesome-template-engine) - 2025-10-06
+- 🔨 Pushed 1 commit(s) to [sshailabh/sshailabh](https://github.com/sshailabh/sshailabh) - 2025-10-06
 <!-- END:activity -->
 
 ---
