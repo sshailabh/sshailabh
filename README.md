@@ -82,7 +82,7 @@ This repo has system code for SemEval 2021 Task 11.
 <!-- START:template-stats -->
 **Total Template Engines Tracked**: 150+  
 **Languages Covered**: 20+  
-**Last Updated**: 2025-10-02
+**Last Updated**: 2025-10-06
 <!-- END:template-stats -->
 
 ## 🤝 Connect With Me
@@ -108,11 +108,11 @@ This repo has system code for SemEval 2021 Task 11.
 ## 🎯 Recent Activity
 
 <!-- START:activity -->
-- 🔄 Opened PR [#1169](https://github.com/jknack/handlebars.java/pull/1169) in jknack/handlebars.java - 2025-10-04
-- 🔨 Pushed 1 commit(s) to [sshailabh/handlebars.java](https://github.com/sshailabh/handlebars.java) - 2025-10-04
-- 🔨 Pushed 1 commit(s) to [sshailabh/antlr4-mcp-server](https://github.com/sshailabh/antlr4-mcp-server) - 2025-10-04
-- 🔨 Pushed 1 commit(s) to [sshailabh/antlr4-mcp-server](https://github.com/sshailabh/antlr4-mcp-server) - 2025-10-04
-- 🔨 Pushed 1 commit(s) to [sshailabh/antlr4-mcp-server](https://github.com/sshailabh/antlr4-mcp-server) - 2025-10-04
+- 🔨 Pushed 2 commit(s) to [sshailabh/awesome-template-engine](https://github.com/sshailabh/awesome-template-engine) - 2025-10-06
+- 🔄 Opened PR [#26](https://github.com/sshailabh/awesome-template-engine/pull/26) in sshailabh/awesome-template-engine - 2025-10-06
+- 🔨 Pushed 1 commit(s) to [sshailabh/handlebars.java](https://github.com/sshailabh/handlebars.java) - 2025-10-05
+- 🔨 Pushed 2 commit(s) to [sshailabh/antlr4-mcp-server](https://github.com/sshailabh/antlr4-mcp-server) - 2025-10-05
+- 🔄 Opened PR [#1](https://github.com/sshailabh/antlr4-mcp-server/pull/1) in sshailabh/antlr4-mcp-server - 2025-10-05
 <!-- END:activity -->
 
 ---
