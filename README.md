@@ -108,11 +108,11 @@ This repo has system code for SemEval 2021 Task 11.
 ## 🎯 Recent Activity
 
 <!-- START:activity -->
-- 🔨 Pushed 1 commit(s) to [sshailabh/sshailabh](https://github.com/sshailabh/sshailabh) - 2025-10-06
-- 🔨 Pushed 1 commit(s) to [sshailabh/sshailabh](https://github.com/sshailabh/sshailabh) - 2025-10-06
-- 🔨 Pushed 1 commit(s) to [sshailabh/sshailabh](https://github.com/sshailabh/sshailabh) - 2025-10-06
-- 🔨 Pushed 1 commit(s) to [sshailabh/sshailabh](https://github.com/sshailabh/sshailabh) - 2025-10-06
-- 🔨 Pushed 1 commit(s) to [sshailabh/sshailabh](https://github.com/sshailabh/sshailabh) - 2025-10-06
+- ⭐ Starred [anthropics/claude-code](https://github.com/anthropics/claude-code) - 2025-10-07
+- 🔄 Opened PR [#2](https://github.com/sshailabh/antlr4-mcp-server/pull/2) in sshailabh/antlr4-mcp-server - 2025-10-06
+- 🔄 Opened PR [#26](https://github.com/sshailabh/awesome-template-engine/pull/26) in sshailabh/awesome-template-engine - 2025-10-06
+- 🔄 Opened PR [#1](https://github.com/sshailabh/antlr4-mcp-server/pull/1) in sshailabh/antlr4-mcp-server - 2025-10-05
+- 🔄 Opened PR [#1169](https://github.com/jknack/handlebars.java/pull/1169) in jknack/handlebars.java - 2025-10-04
 <!-- END:activity -->
 
 ---
