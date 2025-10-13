@@ -82,7 +82,7 @@ This repo has system code for SemEval 2021 Task 11.
 <!-- START:template-stats -->
 **Total Template Engines Tracked**: 150+  
 **Languages Covered**: 20+  
-**Last Updated**: 2025-10-12
+**Last Updated**: 2025-10-13
 <!-- END:template-stats -->
 
 ## 🤝 Connect With Me
@@ -108,11 +108,11 @@ This repo has system code for SemEval 2021 Task 11.
 ## 🎯 Recent Activity
 
 <!-- START:activity -->
+- 🔄 Opened PR [#27](https://github.com/sshailabh/awesome-template-engine/pull/27) in sshailabh/awesome-template-engine - 2025-10-13
 - 🔄 Opened PR [#3](https://github.com/sshailabh/antlr4-mcp-server/pull/3) in sshailabh/antlr4-mcp-server - 2025-10-11
 - ⭐ Starred [anthropics/claude-code](https://github.com/anthropics/claude-code) - 2025-10-07
 - 🔄 Opened PR [#2](https://github.com/sshailabh/antlr4-mcp-server/pull/2) in sshailabh/antlr4-mcp-server - 2025-10-06
 - 🔄 Opened PR [#26](https://github.com/sshailabh/awesome-template-engine/pull/26) in sshailabh/awesome-template-engine - 2025-10-06
-- 🔄 Opened PR [#1](https://github.com/sshailabh/antlr4-mcp-server/pull/1) in sshailabh/antlr4-mcp-server - 2025-10-05
 <!-- END:activity -->
 
 ---
