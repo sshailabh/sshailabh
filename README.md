@@ -108,11 +108,11 @@ This repo has system code for SemEval 2021 Task 11.
 ## 🎯 Recent Activity
 
 <!-- START:activity -->
+- ⭐ Starred [unslothai/unsloth](https://github.com/unslothai/unsloth) - 2025-10-20
 - 🔄 Opened PR [#28](https://github.com/sshailabh/awesome-template-engine/pull/28) in sshailabh/awesome-template-engine - 2025-10-20
 - ⭐ Starred [anthropics/skills](https://github.com/anthropics/skills) - 2025-10-18
 - ⭐ Starred [obra/superpowers](https://github.com/obra/superpowers) - 2025-10-18
 - ⭐ Starred [google/adk-python](https://github.com/google/adk-python) - 2025-10-14
-- 🔄 Opened PR [#27](https://github.com/sshailabh/awesome-template-engine/pull/27) in sshailabh/awesome-template-engine - 2025-10-13
 <!-- END:activity -->
 
 ---
