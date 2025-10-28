@@ -108,11 +108,11 @@ This repo has system code for SemEval 2021 Task 11.
 ## 🎯 Recent Activity
 
 <!-- START:activity -->
+- 🔄 Opened PR [#1](https://github.com/sshailabh/OpenEnv/pull/1) in sshailabh/OpenEnv - 2025-10-27
+- ⭐ Starred [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo) - 2025-10-27
 - 🔄 Opened PR [#29](https://github.com/sshailabh/awesome-template-engine/pull/29) in sshailabh/awesome-template-engine - 2025-10-27
 - 🔄 Opened PR [#100](https://github.com/meta-pytorch/OpenEnv/pull/100) in meta-pytorch/OpenEnv - 2025-10-26
 - ⭐ Starred [meta-pytorch/OpenEnv](https://github.com/meta-pytorch/OpenEnv) - 2025-10-25
-- ⭐ Starred [openai/agents.md](https://github.com/openai/agents.md) - 2025-10-23
-- ⭐ Starred [unslothai/unsloth](https://github.com/unslothai/unsloth) - 2025-10-20
 <!-- END:activity -->
 
 ---
