@@ -69,7 +69,7 @@ I'm a Senior Software/Machine Learning expert with 4+ years of experience at **A
 ### [awesome-template-engine](https://github.com/sshailabh/awesome-template-engine)
 A curated list of references for template engines
 
-**Language**: Python | **Stars**: 50 | **Forks**: 2
+**Language**: Python | **Stars**: 51 | **Forks**: 2
 
 ### [SemEval-2021-Task-11](https://github.com/sshailabh/SemEval-2021-Task-11)
 This repo has system code for SemEval 2021 Task 11.
