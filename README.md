@@ -82,7 +82,7 @@ This repo has system code for SemEval 2021 Task 11.
 <!-- START:template-stats -->
 **Total Template Engines Tracked**: 150+  
 **Languages Covered**: 20+  
-**Last Updated**: 2025-11-14
+**Last Updated**: 2025-11-17
 <!-- END:template-stats -->
 
 ## 🤝 Connect With Me
@@ -108,11 +108,11 @@ This repo has system code for SemEval 2021 Task 11.
 ## 🎯 Recent Activity
 
 <!-- START:activity -->
+- 🔄 Opened PR [#32](https://github.com/sshailabh/awesome-template-engine/pull/32) in sshailabh/awesome-template-engine - 2025-11-17
 - 🔄 Opened PR [#31](https://github.com/sshailabh/awesome-template-engine/pull/31) in sshailabh/awesome-template-engine - 2025-11-10
 - ⭐ Starred [pytorch/helion](https://github.com/pytorch/helion) - 2025-11-04
 - 🔄 Opened PR [#30](https://github.com/sshailabh/awesome-template-engine/pull/30) in sshailabh/awesome-template-engine - 2025-11-03
 - ⭐ Starred [vllm-project/vllm](https://github.com/vllm-project/vllm) - 2025-10-28
-- 🔄 Opened PR [#1](https://github.com/sshailabh/OpenEnv/pull/1) in sshailabh/OpenEnv - 2025-10-27
 <!-- END:activity -->
 
 ---
