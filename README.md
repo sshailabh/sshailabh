@@ -108,11 +108,11 @@ This repo has system code for SemEval 2021 Task 11.
 ## 🎯 Recent Activity
 
 <!-- START:activity -->
+- ⭐ Starred [blynkkk/blynk-library](https://github.com/blynkkk/blynk-library) - 2025-12-05
+- ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - 2025-12-05
 - 🔄 Opened PR [#1171](https://github.com/jknack/handlebars.java/pull/1171) in jknack/handlebars.java - 2025-12-01
 - 🔄 Opened PR [#34](https://github.com/sshailabh/awesome-template-engine/pull/34) in sshailabh/awesome-template-engine - 2025-12-01
 - ⭐ Starred [sshailabh/antlr4-mcp-server](https://github.com/sshailabh/antlr4-mcp-server) - 2025-11-30
-- 🔄 Opened PR [#33](https://github.com/sshailabh/awesome-template-engine/pull/33) in sshailabh/awesome-template-engine - 2025-11-24
-- 🔄 Opened PR [#32](https://github.com/sshailabh/awesome-template-engine/pull/32) in sshailabh/awesome-template-engine - 2025-11-17
 <!-- END:activity -->
 
 ---
