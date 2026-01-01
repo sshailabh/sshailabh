@@ -108,11 +108,11 @@ This repo has system code for SemEval 2021 Task 11.
 ## 🎯 Recent Activity
 
 <!-- START:activity -->
+- ⭐ Starred [sshailabh/antlr4-mcp-server](https://github.com/sshailabh/antlr4-mcp-server) - 2025-12-31
+- 🔄 Opened PR [#5](https://github.com/sshailabh/antlr4-mcp-server/pull/5) in sshailabh/antlr4-mcp-server - 2025-12-31
+- 🔄 Opened PR [#4](https://github.com/sshailabh/antlr4-mcp-server/pull/4) in sshailabh/antlr4-mcp-server - 2025-12-31
 - 🔄 Opened PR [#40](https://github.com/sshailabh/awesome-template-engine/pull/40) in sshailabh/awesome-template-engine - 2025-12-29
 - 🔄 Opened PR [#39](https://github.com/sshailabh/awesome-template-engine/pull/39) in sshailabh/awesome-template-engine - 2025-12-22
-- 🔄 Opened PR [#38](https://github.com/sshailabh/awesome-template-engine/pull/38) in sshailabh/awesome-template-engine - 2025-12-22
-- ⭐ Starred [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - 2025-12-18
-- 🔄 Opened PR [#36](https://github.com/sshailabh/awesome-template-engine/pull/36) in sshailabh/awesome-template-engine - 2025-12-15
 <!-- END:activity -->
 
 ---
