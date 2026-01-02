@@ -108,11 +108,11 @@ This repo has system code for SemEval 2021 Task 11.
 ## 🎯 Recent Activity
 
 <!-- START:activity -->
+- ⭐ Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - 2026-01-01
+- ⭐ Starred [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - 2026-01-01
+- 🔄 Opened PR [#1](https://github.com/sshailabh/dsl-starter/pull/1) in sshailabh/dsl-starter - 2026-01-01
+- 🔄 Opened PR [#6](https://github.com/sshailabh/antlr4-mcp-server/pull/6) in sshailabh/antlr4-mcp-server - 2026-01-01
 - ⭐ Starred [sshailabh/antlr4-mcp-server](https://github.com/sshailabh/antlr4-mcp-server) - 2025-12-31
-- 🔄 Opened PR [#5](https://github.com/sshailabh/antlr4-mcp-server/pull/5) in sshailabh/antlr4-mcp-server - 2025-12-31
-- 🔄 Opened PR [#4](https://github.com/sshailabh/antlr4-mcp-server/pull/4) in sshailabh/antlr4-mcp-server - 2025-12-31
-- 🔄 Opened PR [#40](https://github.com/sshailabh/awesome-template-engine/pull/40) in sshailabh/awesome-template-engine - 2025-12-29
-- 🔄 Opened PR [#39](https://github.com/sshailabh/awesome-template-engine/pull/39) in sshailabh/awesome-template-engine - 2025-12-22
 <!-- END:activity -->
 
 ---
