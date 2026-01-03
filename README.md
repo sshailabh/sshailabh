@@ -71,10 +71,10 @@ A curated list of references for template engines
 
 **Language**: Python | **Stars**: 56 | **Forks**: 2
 
-### [SemEval-2021-Task-11](https://github.com/sshailabh/SemEval-2021-Task-11)
-This repo has system code for SemEval 2021 Task 11.
+### [antlr4-mcp-server](https://github.com/sshailabh/antlr4-mcp-server)
+ANTLR4 MCP Server
 
-**Language**: Jupyter Notebook | **Stars**: 4 | **Forks**: 1
+**Language**: Java | **Stars**: 5 | **Forks**: 0
 <!-- END:projects -->
 
 ## 📈 Template Engine Insights
@@ -108,11 +108,11 @@ This repo has system code for SemEval 2021 Task 11.
 ## 🎯 Recent Activity
 
 <!-- START:activity -->
+- ⭐ Starred [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - 2026-01-02
 - ⭐ Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - 2026-01-01
 - ⭐ Starred [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - 2026-01-01
 - 🔄 Opened PR [#1](https://github.com/sshailabh/dsl-starter/pull/1) in sshailabh/dsl-starter - 2026-01-01
 - 🔄 Opened PR [#6](https://github.com/sshailabh/antlr4-mcp-server/pull/6) in sshailabh/antlr4-mcp-server - 2026-01-01
-- ⭐ Starred [sshailabh/antlr4-mcp-server](https://github.com/sshailabh/antlr4-mcp-server) - 2025-12-31
 <!-- END:activity -->
 
 ---
