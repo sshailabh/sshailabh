@@ -108,11 +108,11 @@ ANTLR4 MCP Server
 ## 🎯 Recent Activity
 
 <!-- START:activity -->
+- 🔄 Opened PR [#41](https://github.com/sshailabh/awesome-template-engine/pull/41) in sshailabh/awesome-template-engine - 2026-01-05
 - ⭐ Starred [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - 2026-01-02
 - ⭐ Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - 2026-01-01
 - ⭐ Starred [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - 2026-01-01
 - 🔄 Opened PR [#1](https://github.com/sshailabh/dsl-starter/pull/1) in sshailabh/dsl-starter - 2026-01-01
-- 🔄 Opened PR [#6](https://github.com/sshailabh/antlr4-mcp-server/pull/6) in sshailabh/antlr4-mcp-server - 2026-01-01
 <!-- END:activity -->
 
 ---
