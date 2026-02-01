@@ -108,11 +108,11 @@ ANTLR4 MCP Server
 ## 🎯 Recent Activity
 
 <!-- START:activity -->
+- 🔄 Opened PR [#45](https://github.com/sshailabh/awesome-template-engine/pull/45) in sshailabh/awesome-template-engine - 2026-02-01
 - 🔄 Opened PR [#44](https://github.com/sshailabh/awesome-template-engine/pull/44) in sshailabh/awesome-template-engine - 2026-01-16
 - 🔄 Opened PR [#43](https://github.com/sshailabh/awesome-template-engine/pull/43) in sshailabh/awesome-template-engine - 2026-01-05
 - 🔄 Opened PR [#42](https://github.com/sshailabh/awesome-template-engine/pull/42) in sshailabh/awesome-template-engine - 2026-01-05
 - 🔄 Opened PR [#41](https://github.com/sshailabh/awesome-template-engine/pull/41) in sshailabh/awesome-template-engine - 2026-01-05
-- ⭐ Starred [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - 2026-01-02
 <!-- END:activity -->
 
 ---
