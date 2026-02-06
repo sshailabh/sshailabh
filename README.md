@@ -110,8 +110,6 @@ ANTLR4 MCP Server
 <!-- START:activity -->
 - 🔄 Opened PR [#45](https://github.com/sshailabh/awesome-template-engine/pull/45) in sshailabh/awesome-template-engine - 2026-02-01
 - 🔄 Opened PR [#44](https://github.com/sshailabh/awesome-template-engine/pull/44) in sshailabh/awesome-template-engine - 2026-01-16
-- 🔄 Opened PR [#43](https://github.com/sshailabh/awesome-template-engine/pull/43) in sshailabh/awesome-template-engine - 2026-01-05
-- 🔄 Opened PR [#42](https://github.com/sshailabh/awesome-template-engine/pull/42) in sshailabh/awesome-template-engine - 2026-01-05
 <!-- END:activity -->
 
 ---
