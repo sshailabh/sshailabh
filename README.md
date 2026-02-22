@@ -108,6 +108,7 @@ ANTLR4 MCP Server
 ## 🎯 Recent Activity
 
 <!-- START:activity -->
+- ⭐ Starred [webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp) - 2026-02-21
 - 🔄 Opened PR [#46](https://github.com/sshailabh/awesome-template-engine/pull/46) in sshailabh/awesome-template-engine - 2026-02-16
 - 🔄 Opened PR [#45](https://github.com/sshailabh/awesome-template-engine/pull/45) in sshailabh/awesome-template-engine - 2026-02-01
 <!-- END:activity -->
