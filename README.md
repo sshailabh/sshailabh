@@ -74,7 +74,7 @@ A curated list of references for template engines
 ### [antlr4-mcp-server](https://github.com/sshailabh/antlr4-mcp-server)
 ANTLR4 MCP Server
 
-**Language**: Java | **Stars**: 7 | **Forks**: 0
+**Language**: Java | **Stars**: 7 | **Forks**: 1
 <!-- END:projects -->
 
 ## 📈 Template Engine Insights
