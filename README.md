@@ -69,7 +69,7 @@ I'm a Senior Software/Machine Learning expert with 4+ years of experience at **A
 ### [awesome-template-engine](https://github.com/sshailabh/awesome-template-engine)
 A curated list of references for template engines
 
-**Language**: Python | **Stars**: 61 | **Forks**: 2
+**Language**: Python | **Stars**: 61 | **Forks**: 3
 
 ### [antlr4-mcp-server](https://github.com/sshailabh/antlr4-mcp-server)
 ANTLR4 MCP Server
