@@ -69,7 +69,7 @@ I'm a Senior Software/Machine Learning expert with 4+ years of experience at **A
 ### [awesome-template-engine](https://github.com/sshailabh/awesome-template-engine)
 A curated list of references for template engines
 
-**Language**: Python | **Stars**: 64 | **Forks**: 3
+**Language**: Python | **Stars**: 65 | **Forks**: 3
 
 ### [antlr4-mcp-server](https://github.com/sshailabh/antlr4-mcp-server)
 ANTLR4 MCP Server
@@ -82,7 +82,7 @@ ANTLR4 MCP Server
 <!-- START:template-stats -->
 **Total Template Engines Tracked**: 150+  
 **Languages Covered**: 20+  
-**Last Updated**: 2026-03-17
+**Last Updated**: 2026-03-31
 <!-- END:template-stats -->
 
 ## 🤝 Connect With Me
@@ -108,8 +108,8 @@ ANTLR4 MCP Server
 ## 🎯 Recent Activity
 
 <!-- START:activity -->
+- 🔄 Opened PR [#50](https://github.com/sshailabh/awesome-template-engine/pull/50) in sshailabh/awesome-template-engine - 2026-04-01
 - 🔄 Opened PR [#49](https://github.com/sshailabh/awesome-template-engine/pull/49) in sshailabh/awesome-template-engine - 2026-03-16
-- 🔄 Opened PR [#47](https://github.com/sshailabh/awesome-template-engine/pull/47) in sshailabh/awesome-template-engine - 2026-03-01
 <!-- END:activity -->
 
 ---
