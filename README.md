@@ -108,9 +108,9 @@ ANTLR4 MCP Server
 ## 🎯 Recent Activity
 
 <!-- START:activity -->
+- 🔄 Opened PR [#51](https://github.com/sshailabh/awesome-template-engine/pull/51) in sshailabh/awesome-template-engine - 2026-04-16
 - ⭐ Starred [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - 2026-04-12
 - 🔄 Opened PR [#50](https://github.com/sshailabh/awesome-template-engine/pull/50) in sshailabh/awesome-template-engine - 2026-04-01
-- 🔄 Opened PR [#49](https://github.com/sshailabh/awesome-template-engine/pull/49) in sshailabh/awesome-template-engine - 2026-03-16
 <!-- END:activity -->
 
 ---
