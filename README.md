@@ -82,7 +82,7 @@ ANTLR4 MCP Server
 <!-- START:template-stats -->
 **Total Template Engines Tracked**: 150+  
 **Languages Covered**: 20+  
-**Last Updated**: 2026-04-11
+**Last Updated**: 2026-05-10
 <!-- END:template-stats -->
 
 ## 🤝 Connect With Me
